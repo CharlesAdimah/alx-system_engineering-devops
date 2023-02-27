@@ -1,6 +1,6 @@
 Secured and Monitored Web Infrastructure
 
-![alt text]https://github.com/CharlesAdimah/alx-system_engineering-devops/blob/405907670effb28890a843e3bb6e3f7c63e5308d/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.jpg
+![alt text](https://github.com/CharlesAdimah/alx-system_engineering-devops/blob/405907670effb28890a843e3bb6e3f7c63e5308d/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.jpg)
 
 
 Visit Board
